@@ -6,13 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="API-service" />
+=======
+        <module name="micro" />
+>>>>>>> 24ec88855883703cb8beaccc1e80d8fe4b1eca19
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+<<<<<<< HEAD
       <module name="API-service" options="-parameters" />
+=======
+      <module name="micro" options="-parameters" />
+>>>>>>> 24ec88855883703cb8beaccc1e80d8fe4b1eca19
     </option>
   </component>
 </project>

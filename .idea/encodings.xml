@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$/API-service/src/main/java" charset="UTF-8" />
+=======
+    <file url="file://$PROJECT_DIR$/micro/src/main/java" charset="UTF-8" />
+>>>>>>> 24ec88855883703cb8beaccc1e80d8fe4b1eca19
   </component>
 </project>

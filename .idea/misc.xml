@@ -4,7 +4,11 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/API-service/pom.xml" />
+=======
+        <option value="$PROJECT_DIR$/micro/pom.xml" />
+>>>>>>> 24ec88855883703cb8beaccc1e80d8fe4b1eca19
       </list>
     </option>
   </component>

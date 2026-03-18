@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/API-service.iml" filepath="$PROJECT_DIR$/.idea/API-service.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/micro.iml" filepath="$PROJECT_DIR$/.idea/micro.iml" />
+>>>>>>> 24ec88855883703cb8beaccc1e80d8fe4b1eca19
     </modules>
   </component>
 </project>
